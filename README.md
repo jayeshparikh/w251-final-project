@@ -32,7 +32,7 @@ Recommended way to install the dependencies is creating a new virtual environmen
 
 
 | | Professional  | Author  | Author  | Author  | Author  | Author |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | | <img src="./images/professional.gif" width="200" height="200">  |  <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200"> | <img src="./images/Karthik_ItsAWonderfulDay_ItsAWorkOfArtThe.gif" width="160" height="200">  |  <img src="./images/Karthik_Morning_More-Ing.gif" width="200" height="200"> |  <img src="./images/Jayesh_HowAreYou_OnAndAreYou.gif" width="200" height="200"> | <img src="./images/Shobha_Morning_ItsSoBoring.gif" width="200" height="200"> |
 | **Ground Truth**| When I make my pastry  | Its that simple  | Its a wonderful day  | Morning  | How are you  | Morning |
 | **Prediction** |  When I make my pantrick | Its that simple  | Its a work of art the  | More ing  | On and are you  | Its so boring |
