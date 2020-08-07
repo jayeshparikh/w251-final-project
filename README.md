@@ -12,11 +12,11 @@ Recommended way to install the dependencies is creating a new virtual environmen
 <p><code>/client</code>: Directory of client side code and corresponding Docker. This is used to capture or stream video</p>
 <p><code>/server/src</code>: Directory of server side code. The structure of server side code is as follows</p>
   
-<p><code>/checkpoints</code>: Temporary directory to store intermediate model weights and plots while training. Gets automatically created.</p>
-<p><code>/data</code>: Directory containing the LRS2 Main and Pretrain dataset class definitions and other required data-related utility functions.</p>
-<p><code>/final</code>: Directory to store the final trained model weights and plots. If available, place the pre-trained model weights in the <code>models</code> subdirectory.</p>
-<p><code>/models</code>: Directory containing the class definitions for the models.</p>
-<p><code>/utils</code>: Directory containing function definitions for calculating CER/WER, greedy search/beam search decoders and preprocessing of data samples. Also contains functions to train and evaluate the model.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;<p><code>/checkpoints</code>: Temporary directory to store intermediate model weights and plots while training. Gets automatically created.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;<p><code>/data</code>: Directory containing the LRS2 Main and Pretrain dataset class definitions and other required data-related utility functions.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;<p><code>/final</code>: Directory to store the final trained model weights and plots. If available, place the pre-trained model weights in the <code>models</code> subdirectory.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;<p><code>/models</code>: Directory containing the class definitions for the models.</p>
+&nbsp;&nbsp;&nbsp;&nbsp;<p><code>/utils</code>: Directory containing function definitions for calculating CER/WER, greedy search/beam search decoders and preprocessing of data samples. Also contains functions to train and evaluate the model.</p>
 
 <h4>Files</h4>
 <p><code>checker.py</code>: File containing checker/debug functions for testing all the modules and the functions in the project as well as any other checks to be performed.</p>
