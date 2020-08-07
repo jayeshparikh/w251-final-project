@@ -9,8 +9,8 @@ Recommended way to install the dependencies is creating a new virtual environmen
 <code>pip install -r requirements.txt</code>
 
 <h3>Project Folder Structure</h3>
-<code>/client</code>: Directory of client side code and corresponding Docker. This is used to capture or stream video
-<code>/server/src</code>: Directory of server side code. The structure of server side code is as follows
+<p><code>/client</code>: Directory of client side code and corresponding Docker. This is used to capture or stream video</p>
+<p><code>/server/src</code>: Directory of server side code. The structure of server side code is as follows</p>
   
 <p><code>/checkpoints</code>: Temporary directory to store intermediate model weights and plots while training. Gets automatically created.</p>
 <p><code>/data</code>: Directory containing the LRS2 Main and Pretrain dataset class definitions and other required data-related utility functions.</p>
