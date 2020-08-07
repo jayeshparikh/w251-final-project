@@ -29,5 +29,6 @@ Recommended way to install the dependencies is creating a new virtual environmen
 <code>inference.py</code>: Python script for generating predictions with the specified trained model for incoming videos.</p>
 
 <h4>GIFs</h4>
+![Alt Text](images/Shobha_ItsThatSimple.gif)
 
  
