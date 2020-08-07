@@ -34,7 +34,7 @@ pip install -r requirements.txt
 <code>train.py</code>: Python script to train the model on the train set of the LRS2 dataset.</p>
 <code>inference.py</code>: Python script for generating predictions with the specified trained model for incoming videos.</p>
 
-### Results
+## Results
 
 | | Professional  | Author  | Author  | Author  | Author  | Author |
 |---|---|---|---|---|---|---|
