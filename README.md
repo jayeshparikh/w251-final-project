@@ -28,6 +28,6 @@ Recommended way to install the dependencies is creating a new virtual environmen
 <code>train.py</code>: Python script to train the model on the train set of the LRS2 dataset.</p>
 <code>inference.py</code>: Python script for generating predictions with the specified trained model for incoming videos.</p>
 
-<h4>GIFs</h4>
-[GIF1](./images/Shobha_ItsThatSimple.gif)
+### GIFs
+![GIF1](./images/Shobha_ItsThatSimple.gif)
  
