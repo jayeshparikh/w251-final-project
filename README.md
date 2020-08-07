@@ -35,8 +35,8 @@ Recommended way to install the dependencies is creating a new virtual environmen
 
 <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200">
 
-| 1  | 2  | 3  | 4  | 5  |
-|---|---|---|---|---|
-| <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200">  |  <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200"> | <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200">  |  <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200"> |  <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200"> |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| | 1  | 2  | 3  | 4  | 5  |
+| |---|---|---|---|---|
+| | <img src="./images/professional.gif" width="200" height="200">  |  <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200"> | <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200">  |  <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200"> |  <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200"> |
+| Ground Truth| When I make my pastry  |   |   |   |   |
+| Prediction |  When I make my pantrick |   |   |   |   |
