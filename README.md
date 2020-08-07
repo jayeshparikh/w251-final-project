@@ -5,7 +5,7 @@
 Approximately 17.9 million people in the United States have trouble using their voices. In some cases, this affects the vocal folds in the larynx which can result in complete loss of voice. This can affect the basic communication function in their daily life. We propose a novel lip-reading recognition using computer vision and deep curriculum learning. The advantage of the proposed method is that it is a natural extension of their current lifestyle and is very simple to operate. This is a very promising alternative over the currently available external wearable solutions.
 
 ## Details
-<p>The model was trained on <a href="http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html" rel="nofollow">LRS2 dataset</a> for the speech-to-text transcription task</p>
+The model was trained on <a href="http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html" rel="nofollow">LRS2 dataset</a> for the visual speech to text transcription task.
 
 ### Requirements
 Recommended way to install the dependencies is creating a new virtual environment and then running <i>requirements.txt</i> file under <i>server/src</i>
@@ -14,7 +14,8 @@ Recommended way to install the dependencies is creating a new virtual environmen
 pip install -r requirements.txt
 ```
 ### Project Folder Structure
-<h4>Directories</h4>
+
+#### Directories
 <p><code><b>/client</b></code>: Directory of client side code and corresponding Docker. This is used to capture or stream video</p>
 <p><code><b>/server/src</b></code>: Directory of server side code. The structure of server side code is as follows</p>
   
@@ -24,7 +25,7 @@ pip install -r requirements.txt
 <code>/models</code>: Directory containing the class definitions for the models.</p>
 <code>/utils</code>: Directory containing function definitions for calculating CER/WER, greedy search/beam search decoders and preprocessing of data samples. Also contains functions to train and evaluate the model.</p>
 
-<h4>Files</h4>
+#### Files
 <p><code>checker.py</code>: File containing checker/debug functions for testing all the modules and the functions in the project as well as any other checks to be performed.</p>
 <code>config.py</code>: File to set the configuration options and hyperparameter values.</p>
 <code>preprocess.py</code>: Python script for preprocessing all the data samples in the dataset.</p>
@@ -34,7 +35,6 @@ pip install -r requirements.txt
 <code>inference.py</code>: Python script for generating predictions with the specified trained model for incoming videos.</p>
 
 ### Results
-
 
 | | Professional  | Author  | Author  | Author  | Author  | Author |
 |---|---|---|---|---|---|---|
