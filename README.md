@@ -27,3 +27,5 @@ Recommended way to install the dependencies is creating a new virtual environmen
 <code>test.py</code>: Python script to test the trained model on the test set of the LRS2 dataset.</p>
 <code>train.py</code>: Python script to train the model on the train set of the LRS2 dataset.</p>
 <code>inference.py</code>: Python script for generating predictions with the specified trained model for incoming videos.</p>
+
+<a hfer="https://docs.google.com/presentation/d/1lPaB38kn4XwAjf0Ya3lOK3RCUFNOQxvClmmLVRwNKDs/edit?usp=sharing"><h4>Presentation</h4></a>
