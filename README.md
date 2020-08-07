@@ -1,2 +1,2 @@
 # Lip Reading using Computer Vision
-This repository contains code for W251 Final Project - Watch The Whishper, an intersection of Speech, Computer Vision and Natural Language Processing. This code is based on <a href="https://github.com/LordMartian/deep_avsr" rel="nofollow">Deep Audio-Visual Speech Recognition</a> 
+This repository contains code for <b>W251 Final Project - Watch The Whishper</b>, an intersection of Speech, Computer Vision and Natural Language Processing. This code is based on <a href="https://github.com/LordMartian/deep_avsr" rel="nofollow">Deep Audio-Visual Speech Recognition</a>, which is a PyTorch reproduction of the TM-CTC model from the <a href="https://arxiv.org/abs/1809.02108" rel="nofollow">Deep Audio-Visual Speech Recognition</a> paper
