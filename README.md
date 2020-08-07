@@ -30,6 +30,7 @@ Recommended way to install the dependencies is creating a new virtual environmen
 
 ### Results
 **Ground Truth**: Its that simple
+
 **Prediction**: Its that simple
 
 ![GIF1](./images/Shobha_ItsThatSimple.gif | width=100 )
