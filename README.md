@@ -7,12 +7,13 @@ Approximately 17.9 million people in the United States have trouble using their 
 ## Details
 <p>The model was trained on <a href="http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html" rel="nofollow">LRS2 dataset</a> for the speech-to-text transcription task</p>
 
-<h3>Requirements</h3>
+### Requirements
 Recommended way to install the dependencies is creating a new virtual environment and then running <i>requirements.txt</i> file under <i>server/src</i>
 
-<code>pip install -r requirements.txt</code>
-
-<h3>Project Folder Structure</h3>
+```
+pip install -r requirements.txt
+```
+### Project Folder Structure
 <h4>Directories</h4>
 <p><code><b>/client</b></code>: Directory of client side code and corresponding Docker. This is used to capture or stream video</p>
 <p><code><b>/server/src</b></code>: Directory of server side code. The structure of server side code is as follows</p>
