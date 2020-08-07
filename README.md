@@ -3,7 +3,8 @@
 
 ## Abstract
 Approximately 17.9 million people in the United States have trouble using their voices. In some cases, this affects the vocal folds in the larynx which can result in complete loss of voice. This can affect the basic communication function in their daily life. We propose a novel lip-reading recognition using computer vision and deep curriculum learning. The advantage of the proposed method is that it is a natural extension of their current lifestyle and is very simple to operate. This is a very promising alternative over the currently available external wearable solutions.
-The final paper is [here](./WatchTheWhisper.pdf)
+
+The final paper is [here](./WatchTheWhisper.pdf).
 
 ## Details
 The model was trained on <a href="http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html" rel="nofollow">LRS2 dataset</a> for the visual speech to text transcription task.
