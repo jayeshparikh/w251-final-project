@@ -8,3 +8,21 @@ Recommended way to install the dependencies is creating a new virtual environmen
 
 <code>pip install -r requirements.txt</code>
 
+<h3>Project Folder Structure</h3>
+<code>/client</code>: Directory of client side code and corresponding Docker. This is used to capture or stream video
+<code>/server/src<code>: Directory of server side code. The structure of server side code is as follows
+  
+<p><code>/checkpoints</code>: Temporary directory to store intermediate model weights and plots while training. Gets automatically created.</p>
+<p><code>/data</code>: Directory containing the LRS2 Main and Pretrain dataset class definitions and other required data-related utility functions.</p>
+<p><code>/final</code>: Directory to store the final trained model weights and plots. If available, place the pre-trained model weights in the <code>models</code> subdirectory.</p>
+<p><code>/models</code>: Directory containing the class definitions for the models.</p>
+<p><code>/utils</code>: Directory containing function definitions for calculating CER/WER, greedy search/beam search decoders and preprocessing of data samples. Also contains functions to train and evaluate the model.</p>
+
+<h4>Files</h4>
+<p><code>checker.py</code>: File containing checker/debug functions for testing all the modules and the functions in the project as well as any other checks to be performed.</p>
+<p><code>config.py</code>: File to set the configuration options and hyperparameter values.</p>
+<p><code>preprocess.py</code>: Python script for preprocessing all the data samples in the dataset.</p>
+<p><code>pretrain.py</code>: Python script for pretraining the model on the pretrain set of the LRS2 dataset using curriculum learning.</p>
+<p><code>test.py</code>: Python script to test the trained model on the test set of the LRS2 dataset.</p>
+<p><code>train.py</code>: Python script to train the model on the train set of the LRS2 dataset.</p>
+<p><code>inference.py</code>: Python script for generating predictions with the specified trained model for incoming videos.</p>
