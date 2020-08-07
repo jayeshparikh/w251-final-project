@@ -33,5 +33,4 @@ Recommended way to install the dependencies is creating a new virtual environmen
 
 **Prediction**: Its that simple
 
-[GIF1](./images/Shobha_ItsThatSimple.gif){:height="25%" width="25%"}
-<img src="./images/Shobha_ItsThatSimple.gif" width="100" height="100">
+<img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200">
