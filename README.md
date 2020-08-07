@@ -34,3 +34,9 @@ Recommended way to install the dependencies is creating a new virtual environmen
 **Prediction**: Its that simple
 
 <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200">
+
+| 1  | 2  | 3  | 4  | 5  |
+|---|---|---|---|---|
+| <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200">  |  <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200"> | <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200">  |  <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200"> |  <img src="./images/Shobha_ItsThatSimple.gif" width="200" height="200"> |
+|   |   |   |   |   |
+|   |   |   |   |   |
