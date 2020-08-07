@@ -4,7 +4,7 @@
 <p>The model was trained on <a href="http://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html" rel="nofollow">LRS2 dataset</a> for the speech-to-text transcription task</p>
 
 <h3>Requirements</h3>
-Recommended way to install the dependencies is creating a new virtual environment and then running requirements.txt file under server/src
+Recommended way to install the dependencies is creating a new virtual environment and then running <i>requirements.txt</i> file under server/src
 
 <code>pip install -r requirements.txt</code>
 
